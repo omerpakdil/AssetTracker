@@ -56,6 +56,7 @@
    cd asset-tracker-backend
    npm install
    node server.js
+   ```
 
 Note -> Create a .env file in the backend directory and add the necessary environment variables such as database connection strings, API keys, and JWT secrets.
 
@@ -65,6 +66,7 @@ Note -> Create a .env file in the backend directory and add the necessary enviro
    cd asset-tracker
    npm install
    npx expo start
+   ```
 
 
 ## Technologies Used
