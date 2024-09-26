@@ -2,6 +2,12 @@
 
 **Asset Tracker** is a financial management app designed to help users monitor their investments across cryptocurrencies, stocks, and other assets. With this app, users can input their transactions and track the performance of their portfolio in real-time. The app provides insights into overall profits or losses, individual asset performance, and more.
 
+# Project Screenshots
+
+![WhatsApp Image 2024-09-26 at 17 30 12](https://github.com/user-attachments/assets/bba75db1-a254-4955-afa9-03be67d6a15e)
+![WhatsApp Image 2024-09-26 at 17 30 12 (1)](https://github.com/user-attachments/assets/0a5a7863-ff48-464e-83f3-a6d28d2b34ca)
+![WhatsApp Image 2024-09-26 at 17 30 12 (2)](https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623)
+
 ## Features
 
 ### 1. Transaction Tracking
