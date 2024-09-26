@@ -48,7 +48,7 @@
    ```bash
    git clone https://github.com/yourusername/asset-tracker.git
    cd asset-tracker
-
+   ```
 
 ### 2. Backend Setup
 
