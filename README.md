@@ -8,9 +8,9 @@
 ![WhatsApp Image 2024-09-26 at 17 30 12 (1)](https://github.com/user-attachments/assets/0a5a7863-ff48-464e-83f3-a6d28d2b34c)
 ![WhatsApp Image 2024-09-26 at 17 30 12 (2)](https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623)
 
-<img src="https://github.com/user-attachments/assets/bba75db1-a254-4955-afa9-03be67d6a15e" width="48">
-<img src="https://github.com/user-attachments/assets/0a5a7863-ff48-464e-83f3-a6d28d2b34c" width="48">
-<img src="https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623" width="48">
+<img src="https://github.com/user-attachments/assets/bba75db1-a254-4955-afa9-03be67d6a15e" width="200">
+<img src="https://github.com/user-attachments/assets/0a5a7863-ff48-464e-83f3-a6d28d2b34c" width="200">
+<img src="https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623" width="200">
 
 
 ## Features
