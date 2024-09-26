@@ -60,7 +60,7 @@
 
 Note -> Create a .env file in the backend directory and add the necessary environment variables such as database connection strings, API keys, and JWT secrets.
 
-3. Frontend (UI) Setup
+### 3. Frontend (UI) Setup
 
    ```bash
    cd asset-tracker
