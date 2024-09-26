@@ -4,9 +4,9 @@
 
 # Project Screenshots
 
-<img src="https://github.com/user-attachments/assets/bba75db1-a254-4955-afa9-03be67d6a15e" width="300">
-<img src="https://github.com/user-attachments/assets/0d350f95-c347-4439-850f-08a8d038956d" width="300">
-<img src="https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623" width="300">
+<img src="https://github.com/user-attachments/assets/bba75db1-a254-4955-afa9-03be67d6a15e" width="250">
+<img src="https://github.com/user-attachments/assets/0d350f95-c347-4439-850f-08a8d038956d" width="250">
+<img src="https://github.com/user-attachments/assets/bdc54d2a-9b8a-41db-afcc-ca0b798de623" width="250">
 
 
 ## Features
